@@ -1,0 +1,78 @@
+body{
+	font-family: 'Lato', sans-serif;
+	font-size: 14px;
+	color: #666;
+}
+header{
+	background-color: #202020;
+}
+footer{
+	background-color: #fff;
+	padding: 25px 0;
+	border-top: 1px solid #f6f6f6;
+	color: #333;
+	text-align: center;
+}
+footer img {
+    margin-bottom: 25px;
+    margin-top: 10px;
+}
+.titulo {
+	text-align: center;
+}
+.titulo h1{
+	font-size: 120px;
+	font-weight: bolder;
+}
+.titulo h2{
+	font-size: 100px;
+	font-weight: 300;
+	text-transform: uppercase;
+	color: #FF9306;
+}
+.titulo h3{
+	font-size: 50px;
+	font-weight: 300;
+	font-style: italic;
+}
+.welcome{
+	color:#333;
+	text-align: center;
+	padding-top: 40px;
+}
+.welcome h1{
+	font-weight: bold;
+	font-size: 55px;
+	font-style: italic;
+}
+.welcome h2{
+	font-weight: 300;
+	font-style: italic;
+}
+.welcome p{
+	padding: 15px;
+	font-size: 17px;
+}
+.events{
+	color:#333;
+	text-align: center;
+	padding-top: 40px;
+}
+.events h1{
+	font-weight: bold;
+	font-size: 55px;
+	font-style: italic;
+}
+.events h2{
+	font-weight: 300;
+	font-style: italic;
+}
+.events p{
+	padding: 15px;
+	font-size: 17px;
+}
+#numero{
+	background-color:  #FF9306;
+	color: #fff;
+	border-radius: 100%;
+}
